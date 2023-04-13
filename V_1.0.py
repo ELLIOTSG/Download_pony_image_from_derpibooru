@@ -45,7 +45,7 @@ if __name__ == '__main__':
     # 呆站网址
     url_http = 'https://www.derpibooru.org/images/'
     # 图片保存路径
-    save_file_name = 'E:/JustRelax/MyLittlePony/pony_image_from_derpibooru/1_10000'
+    save_file_name = 'your file name'
     # 图片保存的起始位与结束位
     st_en = {'star': 101, 'end': 200}
 
