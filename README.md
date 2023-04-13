@@ -1,3 +1,4 @@
 # Download_pony_image_from_derpibooru
 从呆站爬取图片
 需要自行链接外网
+V_1.0 为串行下载，V_2.0 为并行下载，请自行选择
