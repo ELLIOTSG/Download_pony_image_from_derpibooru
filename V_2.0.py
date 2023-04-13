@@ -57,7 +57,7 @@ if __name__ == '__main__':
     # 呆站网址
     url_http = 'https://www.derpibooru.org/images/'
     # 图片保存路径
-    save_file_name = 'E:/JustRelax/MyLittlePony/pony_image_from_derpibooru/1_10000'     # 此处修改为你的存储路径
+    save_file_name = 'your file name'     # 此处修改为你的存储路径
     # 图片保存的起始位与结束位(实际效果为 10*start 至 10*end)
     st_en = {'star': 68, 'end': 100}
     # 存储图片链接
